@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftCommons_Example' do
+  pod 'SwiftCommons', :path => '../'
+
+  target 'SwiftCommons_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
