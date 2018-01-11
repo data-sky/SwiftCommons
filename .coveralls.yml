@@ -1,7 +1,2 @@
 service_name: travis-ci
 repo_token: U1mqe1CBDghSjAgYXPBNryOy7D4DcsGJO
-
-gem 'coveralls', require: false
-
-# require 'coveralls'
-# Coveralls.wear!
