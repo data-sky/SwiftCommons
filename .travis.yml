@@ -9,7 +9,7 @@ env:
   - LC_CTYPE=en_US.UTF-8
   - LANG=en_US.UTF-8
   - WORKSPACE="Example/SwiftCommons.xcworkspace"
-  - IOS_FRAMEWORK_SCHEME="SwiftCommons"
+  - IOS_FRAMEWORK_SCHEME="SwiftCommons-Example"
   # - MACOS_FRAMEWORK_SCHEME="SwiftCommons macOS"
   # - TVOS_FRAMEWORK_SCHEME="SwiftCommons tvOS"
   # - WATCHOS_FRAMEWORK_SCHEME="SwiftCommons watchOS"
