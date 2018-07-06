@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'luwei' => 'lw1023@gmail.com' }
-  s.source           = { :git => 'https://github.com/lw1024/SwiftCommons.git', :tag => s.version }
+  s.source           = { :git => 'https://github.com/data-sky/SwiftCommons.git', :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
