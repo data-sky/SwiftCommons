@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftCommons'
   s.version          = '0.1'
-  s.summary          = 'A common tool library for Swift Language.'
+  s.summary          = '一些用swift语言开发的常用工具'
 
   s.description      = <<-DESC
       Add long description of the pod here.
