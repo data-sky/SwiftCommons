@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftCommons'
-  s.version          = '0.1'
+  s.version          = '0.1.1'
   s.summary          = '一些用swift语言开发的常用工具'
 
   s.description      = <<-DESC
