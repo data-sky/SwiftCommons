@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftCommons'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = '一些用swift语言开发的常用工具'
 
   s.description      = <<-DESC
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '11.0'
   s.source_files    = 'SwiftCommons/Classes/*.swift'
-  s.frameworks      = 'UIKit'
+  s.frameworks      = 'Foundation', 'UIKit', 'CoreGraphics'
   s.platform = :ios
   s.requires_arc = true
 
