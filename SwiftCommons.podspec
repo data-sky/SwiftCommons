@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftCommons'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '一些用swift语言开发的常用工具'
 
   s.description      = <<-DESC
@@ -16,4 +16,6 @@ Pod::Spec.new do |s|
   s.source_files    = 'SwiftCommons/Classes/*.swift'
   s.frameworks      = 'UIKit', 'Foundation'
   s.platform = :ios
+
+  s.cocoapods_version = '>= 1.4'
 end
