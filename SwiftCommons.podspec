@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author           = { 'luwei' => 'lw1023@gmail.com' }
   s.source           = { :git => 'https://github.com/data-sky/SwiftCommons.git', :tag => s.version }
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   s.source_files    = 'SwiftCommons/Classes/*.swift'
   s.frameworks      = 'UIKit', 'Foundation'
   s.platform = :ios
